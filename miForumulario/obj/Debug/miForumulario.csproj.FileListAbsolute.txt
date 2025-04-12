@@ -1,0 +1,20 @@
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\bin\Debug\miForumulario.exe.config
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\bin\Debug\miForumulario.exe
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\bin\Debug\miForumulario.pdb
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\obj\Debug\miForumulario.csproj.AssemblyReference.cache
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\obj\Debug\miForumulario.Form1.resources
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\obj\Debug\miForumulario.Properties.Resources.resources
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\obj\Debug\miForumulario.csproj.GenerateResource.cache
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\obj\Debug\miForumulario.csproj.CoreCompileInputs.cache
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\obj\Debug\miForumulario.exe
+C:\U\2025\P1\Semana 10 - CRUD en C# con bases de datos (05-04-2025)\Ejemplos\Consola\miForumulario\miForumulario\obj\Debug\miForumulario.pdb
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\bin\Debug\miForumulario.exe.config
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\bin\Debug\miForumulario.exe
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\bin\Debug\miForumulario.pdb
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\obj\Debug\miForumulario.csproj.AssemblyReference.cache
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\obj\Debug\miForumulario.Form1.resources
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\obj\Debug\miForumulario.Properties.Resources.resources
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\obj\Debug\miForumulario.csproj.GenerateResource.cache
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\obj\Debug\miForumulario.csproj.CoreCompileInputs.cache
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\obj\Debug\miForumulario.exe
+C:\Users\meriv\OneDrive\Tercer Semestre\Progra I\miForumulario\miForumulario\obj\Debug\miForumulario.pdb
